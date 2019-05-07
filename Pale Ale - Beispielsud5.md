@@ -55,13 +55,11 @@
 | 4320 | 20 Gramm | Perle |
   
 
-### Information
 
-Bemerkungen etc. 
 
 ### Rating
 
 | Week | Rating | Color | Foam | Smell | Taste | Freshness | Mouth-Feel | Hop-Aroma | Overall impression |
 | ---- | ------ | ----- | ---- | ----- | ----- | --------- | ---------- | --------- | ------------------ |
-| 5 | 4 | Glaenzend, Bernstein | Grobporig, MittelHaltbar, KraeftigesVolumen | Frisch, Suesslich, Gewuerig | Ausgewogen, Suesslich, Hefig | Rezent | Schlank | WenigHerb | Typisch |
+| 5 | 3 | Glaenzend, Bernstein | Grobporig, MittelHaltbar, KraeftigesVolumen | Frisch, Suesslich, Gewuerzig | Ausgewogen, Suesslich, Hefig | Rezent | Schlank | WenigHerb | Kreativ |
 
